@@ -1,7 +1,7 @@
 """
 Guided Project: Finding the Best Markets to Advertise In
 
-We run e-learning company that offer different types of products like, web and mobile development, data science, game development and others. The purpose of this project is to identify the two most suitable markets that will advertise our services in the future.
+The purpose of this project is to identify the two most suitable markets that will advertise our services in the future.
 """
 
 import pandas as pd
@@ -14,14 +14,10 @@ survey.head()
 survey.shape
 
 """
-In order to save funds we decided not to organize a survey and use an available material.
-
 In this project we will use an existing data filled by new coders that matches with our analyses.
 
-The survey data is publicy available and could be downloaded in this GitHub repository.
-
 ## Checking for Sample Representativity
-As we mentioned earlier, most of the courses we offer are on web and mobile development, but we also cover many other domains, like data science, game development, etc. For the purpose of our analysis, we want to answer questions about a population of new coders that are interested in the subjects we teach. We'd like to know:
+Most of the courses we offer are on web and mobile development, but we also cover many other domains, like data science, game development, etc. For the purpose of our analysis, we want to answer questions about a population of new coders that are interested in the subjects we teach. We'd like to know:
 
 Where are these new coders located.
 
