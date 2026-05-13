@@ -1,6 +1,6 @@
 ## Guided Project - Finding the Best Markets to Advertise In
 
-This guided project was completed on the Dataquest platform as part of one of its Python courses.The purpose of this project is to identify the two most suitable markets that will advertise our services in the future.
+This guided project was completed on the Dataquest platform as part of one of its Python courses. The purpose of this project is to identify the two most suitable markets that will advertise our services in the future.
 With this project, we want to find out:
 
 *    Where are these new coders located.
